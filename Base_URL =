@@ -1,0 +1,26 @@
+For a Simple Base_URL Protocol
+Base_URL = 128+/-@(á-ENí)+;
+
+For a MoNo Complex Base_URL Protocol
+Base_URL = 128+/-@(f-ÈFÀ):13;
+
+For OneWay Complex Base_URL Protocol
+Base_URL = 128+/-@(b-ÈRIN)+@(g-ÈFÀ)-;
+
+For Duo-Complex Base_URL Protocol
+Base_URL = 128+/-@(b-ÈRIN)+@(g-ÈFÀ)-;
+
+For Advanced Duo-Complex Base_URL Protocol
+Base_URL = 128+/-@(b-ÈRIN)+@(a-hudu)-;
+
+For Trio-Complex Base_URL Protocol
+Base_URL = 128+/-@(b-ÈRIN)+@(a-hudu)-@(b-isii)-;
+
+For Advanced Trio-Complex Base_URL Protocol
+Base_URL = 128+/-@(b-ÈRIN)+@(a-hudu)-@(b-isii)-;
+
+For Quadri-Complex Base_URL Protocol
+Base_URL = 128+/-@A1+@F4+@A4-@B6-;
+
+For Advanced Quadri-Complex Base_URL Protocol
+Base_URL = 128+/-@A1+(f-ÈRIN)+@(a-hudu)-(b-isii)-;
